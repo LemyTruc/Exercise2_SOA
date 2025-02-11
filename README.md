@@ -8,7 +8,7 @@
 
 Mục tiêu của bài tập là giúp người học nắm vững ASP.NET Core và kỹ năng lập trình thực tiễn.
 
-Kết quả bài tập: 
+Kết quả bài tập: https://github.com/LemyTruc/Exercise2_SOA/blob/main/ToDoAPI.png 
 
 ---
 
