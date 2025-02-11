@@ -38,5 +38,5 @@ Kết quả bài tập: https://github.com/LemyTruc/Exercise2_SOA/blob/main/ToDo
 Bài tập giúp người học làm quen với việc tích hợp MongoDB vào ứng dụng ASP.NET Core, đồng thời thực hành kỹ năng phát triển API.
 
 Kết quả bài tập: 
-
+https://github.com/LemyTruc/Exercise2_SOA/blob/main/MongoDB.png
 https://github.com/LemyTruc/Exercise2_SOA/blob/main/SampleAPI.png
