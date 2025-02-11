@@ -1,0 +1,38 @@
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\appsettings.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\TodoApi.staticwebassets.endpoints.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\TodoApi.exe
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\TodoApi.deps.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\TodoApi.runtimeconfig.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\TodoApi.dll
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\bin\Debug\net9.0\TodoApi.pdb
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfoInputs.cache
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfo.cs
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\scopedcss\bundle\TodoApi.styles.css
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.dll
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.pdb
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
+C:\Nam3\SOA\Lab02-github\TodoApi\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.csproj.AssemblyReference.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfoInputs.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfo.cs
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Minimal APIs are architected to create HTTP APIs with minimal dependencies\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.pdb

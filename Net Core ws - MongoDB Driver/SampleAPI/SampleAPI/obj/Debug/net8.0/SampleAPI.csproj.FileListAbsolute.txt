@@ -1,0 +1,84 @@
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\appsettings.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.staticwebassets.endpoints.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.exe
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.deps.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.runtimeconfig.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.pdb
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\Snappier.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.csproj.AssemblyReference.cache
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.AssemblyInfoInputs.cache
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.AssemblyInfo.cs
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\scopedcss\bundle\SampleAPI.styles.css
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.SampleAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.SampleAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SampleAPI.props
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SampleAPI.props
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SampleAPI.props
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.csproj.Up2Date
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\refint\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.pdb
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.genruntimeconfig.cache
+C:\Nam3\SOA\Lab02-github\SampleAPI\SampleAPI\obj\Debug\net8.0\ref\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\appsettings.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.staticwebassets.endpoints.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.exe
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.deps.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.runtimeconfig.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SampleAPI.pdb
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\Snappier.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.csproj.AssemblyReference.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.AssemblyInfoInputs.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.AssemblyInfo.cs
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\scopedcss\bundle\SampleAPI.styles.css
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.SampleAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.SampleAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SampleAPI.props
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SampleAPI.props
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SampleAPI.props
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.csproj.Up2Date
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\refint\SampleAPI.dll
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.pdb
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\SampleAPI.genruntimeconfig.cache
+C:\Nam3\SOA\Lab02-github\exercises\Exercise02\Net Core ws - MongoDB Driver\SampleAPI\SampleAPI\obj\Debug\net8.0\ref\SampleAPI.dll
