@@ -8,6 +8,8 @@
 
 Mục tiêu của bài tập là giúp người học nắm vững ASP.NET Core và kỹ năng lập trình thực tiễn.
 
+Kết quả bài tập: 
+
 ---
 
 ## Bài Tập 2: hướng dẫn thiết lập và sử dụng **MongoDB** trong ứng dụng ASP.NET Core
@@ -34,3 +36,5 @@ Mục tiêu của bài tập là giúp người học nắm vững ASP.NET Core 
    - Hướng dẫn cách chạy ứng dụng và kiểm tra các API thông qua Swagger.
 
 Bài tập giúp người học làm quen với việc tích hợp MongoDB vào ứng dụng ASP.NET Core, đồng thời thực hành kỹ năng phát triển API.
+
+Kết quả bài tập: 
