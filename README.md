@@ -1,33 +1,36 @@
 # Exercise2_SOA
-## Bài Tập 1: Thiết lập CSDL với MongoDB
+## Bài Tập 1: Bài tập này hướng dẫn cách xây dựng một API HTTP đơn giản bằng **Minimal APIs** trong ASP.NET Core. Các điểm chính bao gồm:
 
-### 1. Cài đặt MongoDB
-- **Ý Nghĩa**: Làm quen với quá trình cài đặt và thiết lập môi trường làm việc cho MongoDB, giúp bạn hiểu cách cấu hình cơ sở dữ liệu NoSQL.
+- **Tạo dự án API**: Thiết lập môi trường và chạy ứng dụng.
+- **Mô hình và ngữ cảnh cơ sở dữ liệu**: Sử dụng Entity Framework Core để quản lý dữ liệu.
+- **Thêm mã API**: Cài đặt các phương thức GET, POST, PUT, DELETE.
+- **Kiểm tra API**: Sử dụng Endpoint Explorer để kiểm tra các điểm cuối.
 
-### 2. Cài đặt MongoDB Compass
-- **Ý Nghĩa**: Sử dụng MongoDB Compass để trực quan hóa và quản lý cơ sở dữ liệu, giúp việc tương tác với dữ liệu trở nên dễ dàng hơn.
-
-### 3. Tạo Database và Thêm Document
-- **Ý Nghĩa**: Học cách tạo cơ sở dữ liệu và thêm dữ liệu vào MongoDB, giúp bạn hiểu rõ quy trình lưu trữ và truy xuất dữ liệu.
-
-### 4. Chạy Ứng Dụng
-- **Ý Nghĩa**: Kiểm tra và xác nhận rằng ứng dụng hoạt động như mong đợi, từ đó tăng cường khả năng gỡ lỗi và xử lý sự cố.
+Mục tiêu của bài tập là giúp người học nắm vững ASP.NET Core và kỹ năng lập trình thực tiễn.
 
 ---
 
-## Bài Tập 2: Tạo Minimal API trong ASP.NET Core
+## Bài Tập 2: hướng dẫn thiết lập và sử dụng **MongoDB** trong ứng dụng ASP.NET Core
 
-### 1. Tạo Dự Án API
-- **Ý Nghĩa**: Làm quen với việc khởi tạo một dự án ASP.NET Core, tạo nền tảng cho việc phát triển ứng dụng.
+1. **Cài đặt MongoDB**:
+   - Hướng dẫn tải và cài đặt MongoDB và MongoDB Compass để quản lý cơ sở dữ liệu.
 
-### 2. Thêm NuGet Packages
-- **Ý Nghĩa**: Học cách quản lý thư viện và phụ thuộc trong dự án, giúp bạn sử dụng các công nghệ tiên tiến như Entity Framework Core.
+2. **Tạo cơ sở dữ liệu**:
+   - Hướng dẫn tạo một cơ sở dữ liệu mới và thêm tài liệu (documents) vào cơ sở dữ liệu.
 
-### 3. Tạo Model và Database Context
-- **Ý Nghĩa**: Hiểu cách xây dựng các lớp mô hình và cấu hình ngữ cảnh cơ sở dữ liệu, từ đó quản lý dữ liệu hiệu quả hơn.
+3. **Cài đặt MongoDB Driver**:
+   - Hướng dẫn cài đặt MongoDB Driver thông qua NuGet Package Manager.
 
-### 4. Thêm API Code
-- **Ý Nghĩa**: Thực hành viết mã để tạo các endpoint cho API, giúp bạn biết cách xử lý các yêu cầu HTTP và tương tác với cơ sở dữ liệu.
+4. **Xây dựng mô hình và cấu hình**:
+   - Tạo các lớp mô hình như `Book` và `BookStoreDatabaseSettings` để quản lý dữ liệu.
 
-### 5. Chạy Ứng Dụng và Kiểm Tra
-- **Ý Nghĩa**: Kiểm tra hoạt động của API và đảm bảo nó đáp ứng đúng yêu cầu, từ đó nâng cao khả năng phát triển và bảo trì ứng dụng.
+5. **Thêm dịch vụ CRUD**:
+   - Xây dựng lớp `BooksService` để thực hiện các tác vụ CRUD (Create, Read, Update, Delete).
+
+6. **Tạo Controller**:
+   - Tạo `BooksController` để xử lý các yêu cầu API và kết nối với dịch vụ.
+
+7. **Chạy ứng dụng**:
+   - Hướng dẫn cách chạy ứng dụng và kiểm tra các API thông qua Swagger.
+
+Bài tập giúp người học làm quen với việc tích hợp MongoDB vào ứng dụng ASP.NET Core, đồng thời thực hành kỹ năng phát triển API.
